@@ -1,7 +1,5 @@
 ### Hi there, I'm Ihtisham - aka [Sham] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fihtishamarif&screen_name=ihtishamarif)
-
 ## I'm a Full Stack Developer, and Learner!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -15,9 +13,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ihtishamArif | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ihtishamArif | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ihtishamArif | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ihtishamArif | Facebook" width="28px" src="https://img.icons8.com/plasticine/400/000000/facebook-new.png"/>][facebook]
+[<img align="left" alt="ihtishamArif | Twitter" width="28px" src="https://img.icons8.com/plasticine/400/000000/twitter--v1.png"/>][twitter]
+[<img align="left" alt="ihtishamArif | LinkedIn" width="28px" src="https://img.icons8.com/plasticine/400/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="ihtishamArif | Instagram" width="28px" src="https://img.icons8.com/plasticine/400/000000/instagram-new.png"/>][instagram]
 
 <br />
 
@@ -39,19 +38,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-<br />
-<br />
-
----
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="ihtishamArif's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ihtishamArif&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://twitter.com/ihtishamarif
 [instagram]: https://instagram.com/ihtisham.arif
 [linkedin]: https://www.linkedin.com/in/muhammad-ihtasham-arif-9976111a2/
+[facebook]: https://www.facebook.com/ihtisham1211/
