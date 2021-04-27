@@ -32,7 +32,7 @@
 <img align="left" alt="GraphQL" width="26px" src="https://img.icons8.com/color/48/000000/graphql.png"/>
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/metro/26/000000/mysql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/sql-database-administrators-group-skin-type-7.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/ultraviolet/40/000000/compare-git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/fluent/48/000000/github.png" />
