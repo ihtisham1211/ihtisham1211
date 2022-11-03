@@ -7,10 +7,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and watch anime PS: don’t call me a weeb 🤣
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ihtishamArif Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1EQoqCH7BwIYb7?si=hzBZZMyuQsaKrSGq_vvJPw)
-
 ### Connect with me:
 
 [<img align="left" alt="ihtishamArif | Facebook" width="28px" src="https://img.icons8.com/plasticine/400/000000/facebook-new.png"/>][facebook]
