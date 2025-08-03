@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/m-ihtasham-arif" target="_blank">
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:im.ihtasham.arif@gmail.com">
+  <a href="mailto:im.ihtisham.arif@gmail.com">
     <img alt="Email" title="Email" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -72,7 +72,7 @@ I’m a full-stack engineer with 8+ years of experience building scalable, perfo
 
 - 💼 I’m open to remote or hybrid software engineering opportunities.
 - 🛠 I also consult on code audits, refactoring, and startup MVPs.
-- 📨 Reach out via [email](mailto:im.ihtasham.arif@gmail.com) or [LinkedIn](https://www.linkedin.com/in/m-ihtasham-arif).
+- 📨 Reach out via [email](mailto:im.ihtisham.arif@gmail.com) or [LinkedIn](https://www.linkedin.com/in/m-ihtasham-arif).
 
 ---
 
